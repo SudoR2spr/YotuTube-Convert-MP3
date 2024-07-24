@@ -93,7 +93,7 @@ function App() {
                 rel="noreferrer"
                 href={result}
                 className="underline">
-                Download {title}
+                Download ⬇️ {title}
               </a>
             ) : (
               ""
