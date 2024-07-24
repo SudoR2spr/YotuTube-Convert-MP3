@@ -58,7 +58,7 @@ function App() {
             </button>
           </div>
           <h1 className="sm:text-5xl text-sm m-3 dark:text-emerald-400 duration-300">
-            YouTube to MP3 Converter
+            WD YouTube to MP3 Converter
           </h1>
           <h2 className="sm:text-lg text-sm m-3 dark:text-emerald-400 duration-300">
             Transform YouTube videos into MP3s in just a few clicks!
